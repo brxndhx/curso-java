@@ -13,6 +13,7 @@ public class Wrappers {
 
 		Integer i = Integer.parseInt(entrada.next());
 		Long l = 100000L;
+		System.out.println(l);
 
 		System.out.println(b.byteValue());
 		System.out.println(s.toString());
